@@ -1,4 +1,5 @@
 This repository contains code and data from the author's thesis. 
+The files are organised into folders corresponding to each chapter of the thesis.
 
 Copyright © [Vitor Geniselli da Silva]
 
